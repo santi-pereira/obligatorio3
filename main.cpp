@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Bienvenido al programa.");
+    printf("Bienvenido al programa Prueba.");
     return 0;
 }

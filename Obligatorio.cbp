@@ -32,9 +32,27 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Boolean.cpp" />
+		<Unit filename="Boolean.h" />
+		<Unit filename="Ciudad.cpp" />
+		<Unit filename="Ciudad.h" />
+		<Unit filename="Ciudades.cpp" />
+		<Unit filename="Ciudades.h" />
+		<Unit filename="Grafo.cpp" />
+		<Unit filename="Grafo.h" />
+		<Unit filename="Linea.cpp" />
+		<Unit filename="Linea.h" />
+		<Unit filename="Lineas.cpp" />
+		<Unit filename="Lineas.h" />
+		<Unit filename="Paradas.cpp" />
+		<Unit filename="Paradas.h" />
+		<Unit filename="String.cpp" />
+		<Unit filename="String.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
+			<envvars />
+			<debugger />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
