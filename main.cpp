@@ -1,9 +1,7 @@
-#include <iostream>
-
-using namespace std;
+#include <stdio.h>
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    printf("Bienvenido al programa.");
     return 0;
 }

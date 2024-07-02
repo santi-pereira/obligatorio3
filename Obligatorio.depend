@@ -48,3 +48,55 @@
 1719936370 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\paradas.cpp
 	"Paradas.h"
 
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/Boolean.cpp
+	"Boolean.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/Boolean.h
+	<stdio.h>
+
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/Ciudad.cpp
+	"Ciudad.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/Ciudad.h
+	"String.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/String.h
+	"Boolean.h"
+
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/Ciudades.cpp
+	"Ciudades.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/Ciudades.h
+	"Ciudad.h"
+
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/Grafo.cpp
+	"Grafo.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/Grafo.h
+	"Boolean.h"
+
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/Linea.cpp
+
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/Lineas.cpp
+	"Lineas.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/Lineas.h
+	"Boolean.h"
+	"Linea.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/Linea.h
+	"Paradas.h"
+
+1719949924 /Users/santiago/Documents/GitHub/obligatorio3/Paradas.h
+	"Boolean.h"
+	"String.h"
+
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/Paradas.cpp
+	"Paradas.h"
+
+1719949924 source:/Users/santiago/Documents/GitHub/obligatorio3/String.cpp
+	"String.h"
+
+1719950128 source:/Users/santiago/Documents/GitHub/obligatorio3/main.cpp
+	<stdio.h>
+
