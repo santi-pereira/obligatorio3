@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1694133844 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\boolean.cpp
+	"Boolean.h"
+
+1694133845 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\boolean.h
+	<stdio.h>
+
+1719935443 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\ciudad.cpp
+	"Ciudad.h"
+
+1719935909 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\ciudad.h
+	"String.h"
+
+1719934656 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\string.h
+	"Boolean.h"
+
+1719934121 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\linea.cpp
+
+1584209020 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\main.cpp
+	<iostream>
+
+1719936002 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\ciudades.cpp
+	"Ciudades.h"
+
+1719936001 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\ciudades.h
+	"Ciudad.h"
+
+1719936039 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\grafo.cpp
+	"Grafo.h"
+
+1719936049 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\grafo.h
+	"Boolean.h"
+
+1719936342 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\lineas.cpp
+	"Lineas.h"
+
+1719936326 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\lineas.h
+	"Boolean.h"
+	"Linea.h"
+
+1719934707 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\linea.h
+	"Paradas.h"
+
+1719936363 c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\paradas.h
+	"Boolean.h"
+	"String.h"
+
+1719936370 source:c:\users\sabth\ude licenciatura en informática\2°\programación iii\obligatorio\paradas.cpp
+	"Paradas.h"
+
