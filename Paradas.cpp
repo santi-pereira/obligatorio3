@@ -44,7 +44,7 @@ void RemFront (Paradas &L) {
 
  void Desplegar(Paradas L) {
  while (L.prim!=NULL) {
-    printf("%d ", L.prim->info);
+    print(L.prim->info);
     L.prim = L.prim->sig;
  }
 

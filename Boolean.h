@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-typedef enum {FALSE, TRUE}boolean;
+typedef enum {FALSE, TRUE} boolean;
 
 
 

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1720007956 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Boolean.cpp
+	"Boolean.h"
+
+1720037401 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Boolean.h
+	<stdio.h>
+
+1720042104 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Ciudad.cpp
+	"Ciudad.h"
+
+1720042086 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Ciudad.h
+	"String.h"
+
+1720043656 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/String.h
+	"Boolean.h"
+
+1720052314 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Ciudades.cpp
+	"Ciudades.h"
+
+1720052306 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Ciudades.h
+	"Ciudad.h"
+	"Boolean.h"
+	"String.h"
+	"constantes.h"
+
+1720048452 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/constantes.h
+
+1720053412 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Grafo.cpp
+	"Grafo.h"
+
+1720053425 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Grafo.h
+	"Boolean.h"
+	"constantes.h"
+
+1720037402 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Linea.cpp
+	"Linea.h"
+
+1720037402 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Linea.h
+	"Paradas.h"
+
+1720038294 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Paradas.h
+	"String.h"
+
+1720043656 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Lineas.cpp
+	"Lineas.h"
+
+1720038327 /Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Lineas.h
+	"Boolean.h"
+	"Linea.h"
+
+1720053222 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/main.cpp
+	<stdio.h>
+	"Ciudades.h"
+	"Grafo.h"
+
+1720037402 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/Paradas.cpp
+	"Paradas.h"
+
+1720043656 source:/Users/santiago/Documents/GitHub/UltimaCarpeta/Obligatorio3/String.cpp
+	"String.h"
+

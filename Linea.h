@@ -8,5 +8,10 @@ typedef struct {
                 Paradas Paradas;
                 } Linea;
 
+String darCodigoLinea (Linea l);
+
+int darCantidadParadas (Linea l);
+
+Paradas darParadas (Linea l);
 
 #endif // LINEA_H_INCLUDED

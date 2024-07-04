@@ -2,19 +2,38 @@
 #define GRAFO_H_INCLUDED
 
 #include "Boolean.h"
+#include "constantes.h"
 
-const int CANT_CIUD = 5;
 
-typedef int Grafo[CANT_CIUD][CANT_CIUD];
 
-void crearGrafo (Grafo &g);
+typedef int Grafo[CANT_CIUDADES][CANT_CIUDADES];
 
-void agregarAristaNoDirigido (Grafo &g, int fila, int columna);
 
-void recorrerGrafo(Grafo g);
+/*Operaciones Primitivas*/
+void Crear (Grafo &g);
 
-void DFS (Grafo g, int actual, boolean visitado[CANT_CIUD]);
 
+//Crear:   Grafo Crea un grafo vacío.
+void Crear (Grafo &g);
+
+//InsertarVertice : Grafo x V  Grafo Inserta el nuevo vértice al grafo. Precondición: el vértice no pertenece al grafo.
+void InsertarVertice (Grafo &g, int vertice);
+//Cómo insertar un vértice si ya sabemos de antemano cuantos vértices hay y sus posiciones??
+
+//InsertarArista : Grafo x A  Grafo Inserta la nueva arista al grafo. Precondición: la arista no pertenece al grafo.
+void InsertarArista (Grafo &g, int fila, int columna);
+
+//PerteneceVertice : Grafo x V  Boolean Determina si en el grafo existe el vértice especificado.
+boolean PerteneceVertice(Grafo g, int vertice);
+
+//PerteneceArista : Grafo x A  Boolean Determina si en el grafo existe la arista especificada.
+boolean PerteneceArista(Grafo g, int fila, int columna);
+
+//GradoVertice : Grafo x V  Entero Devuelve el grado del vértice especificado. Precondición: el vértice pertenece al grafo
+int GradoVertice (Grafo g, int vertice);
+
+boolean buscarRuta (Grafo g, int verticeA, int verticeB);
+void DFS (Grafo g, int actual, int verticeBuscar, boolean visitado[CANT_CIUDADES]);
 
 
 #endif // GRAFO_H_INCLUDED

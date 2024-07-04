@@ -85,11 +85,14 @@ void Opcion3(Ciudades c, Grafo &graf)
                         {
                              InsertarArista(graf, ciudad1 ,ciudad2);
                              printf("Se creo el tramo correctamente.\n");
+                        }else
+                        {
+                            printf("Ya existe una ruta que une las ciudades. \n");
                         }
 
                     }else
                     {
-                        printf("Las ciudades no pueden ser iguales.");
+                        printf("Las ciudades no pueden ser iguales.\n");
                     }
 
 
@@ -137,7 +140,7 @@ void Opcion4(Ciudades c, Grafo graf)
                 {
                     if(ciudad1 != ciudad2)
                     {
-                        if(PerteneceArista(graf, ciudad1, ciudad2) == TRUE)
+                        if(buscarRuta(graf, ciudad1, ciudad2) == TRUE)
                         {
                             printf("Existe un tramo entre las ciudades.\n");
                         }else

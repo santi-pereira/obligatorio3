@@ -30,5 +30,15 @@ void strcop (String &s1,String s2);
 // Determinar si un String es vacío
 boolean esVacio (String s);
 
+// intercambia 2 Strings
+void strswp (String &s1,String &s2);
+
+//Devuelve True si str1 es menor alfabeticamente que str2
+boolean esMenor(String str1, String str2);
+
+//Devuelve True si s1 es igual que s2
+boolean CompararStrings(String s1, String s2);
+
+
 
 #endif // STRING_H_INCLUDED
